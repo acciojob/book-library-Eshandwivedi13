@@ -24,6 +24,7 @@ body{
 	justify-content:center;
 	flex-direction : column;
 	align-items : center;
+	/* background-color : rgb(46, 204, 113); */
 }
 #author{
 	color : #777777;
